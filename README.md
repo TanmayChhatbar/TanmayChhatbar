@@ -1,5 +1,3 @@
-# Welcome to My GitHub Playground!
-
 ## 🚀 About Me
 
 Hey there! 👋 I'm Tanmay. I'm a PhD student in automotive engineering at Clemson University. Beyond the academic realm, I like exploring the realms of microcontroller-based boards serving my passion for data collection, sim racing and tinkering in general.

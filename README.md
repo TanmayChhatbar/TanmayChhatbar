@@ -18,7 +18,7 @@ I have created some Python scripts, ranging from web-scraping to data logging an
 
 3D modelling and animation allow simulation of the real world. I believe it's a gateway to pre-execution verification using 3D animation helps detect bugs in code without loss of real hardware.
 
-## Connect and Collaborate 🌐
+## 🌐 Connect and Collaborate
 
 I'm always happy to connect with fellow enthusiasts, learners, and potential collaborators. Whether you're here to learn, share ideas, or collaborate on exciting projects, feel free to reach out.
 
